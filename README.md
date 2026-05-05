@@ -10,9 +10,9 @@ Identify how casual riders and annual members use Cyclistic bikes differently to
 ---
 
 ## 1. Data Source
-- Source: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
-- Format: Monthly CSVs
-- Loaded into: Google BigQuery (via direct upload)
+- **Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- **Format:** Monthly CSVs
+- **Loaded into:** Google BigQuery (via direct upload)
 
 ---
 
