@@ -1,4 +1,4 @@
-#Cyclistic Case Study – Google Data Analytics Capstone
+# Cyclistic Case Study – Google Data Analytics Capstone
 
 ## Business Task
 Identify how casual riders and annual members use Cyclistic bikes differently to inform a marketing strategy aimed at converting casual riders into members.
