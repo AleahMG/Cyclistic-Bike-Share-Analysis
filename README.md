@@ -428,5 +428,5 @@ Took some attempts, but I finally settled on a passable Tableau viz. https://pub
 
 ## 4. Time to Act (in Google Sheets)
 
-Used screenshots of Tableau graphs in Slides slides.
-
+The **ACT** phase of this project involves a data-driven marketing strategy.
+- [View Google Slides Presentation](https://docs.google.com/presentation/d/1o22WrFxQnMYvc_BtG7orxv9mngM31xa9/edit?usp=drive_link&ouid=105025862529639766636&rtpof=true&sd=true)
