@@ -3,9 +3,10 @@
 ## Business Task
 Identify how casual riders and annual members use Cyclistic bikes differently to inform a marketing strategy aimed at converting casual riders into members.
 
-## Data Visualisation 
+## Data Visualisation and Presentation
 
-- https://public.tableau.com/app/profile/aleah.skerrett.mcgeary/viz/CyclisticCaseStudy_17554330262020/Dashboard2
+- [Cyclystic case study - Tableau Viz](https://public.tableau.com/app/profile/aleah.skerrett.mcgeary/viz/CyclisticCaseStudy_17554330262020/Dashboard2)
+- [How can Cyclystic navigate a speedy success - Presentation](https://docs.google.com/presentation/d/1o22WrFxQnMYvc_BtG7orxv9mngM31xa9/edit?usp=drive_link&ouid=105025862529639766636&rtpof=true&sd=true)
 ---
 
 ## 1. Data Source
